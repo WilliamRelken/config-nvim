@@ -1,4 +1,5 @@
 require("will.remap")
+require("will.set")
 require("tokyonight").setup({
 	style = "storm",
 	transparent = false,
